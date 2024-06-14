@@ -5,7 +5,7 @@ import pandas as pd
 import shiny.experimental as x
 import plotly.express as px
 import plotly.graph_objects as go
-from plotly_streaming import render_plotly_streaming
+from dashboard.plotly_streaming import render_plotly_streaming
 from pathlib import Path
 import faicons
 
